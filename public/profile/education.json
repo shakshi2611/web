@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Sitamarhi Institute of Technology",
+            "cardTitle": "B.Tech, Computer Science 2024",
+            "cardSubtitle":"Sitamarhi",
+            "cardDetailedText": "Grade - 9.02",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": " ST.Joseph Public School ",
+            "cardTitle": "Intermidiate",
+            "cardSubtitle":"Begusarai",
+            "cardDetailedText": "Marks - 71%"
+        }
+    ]
+}
